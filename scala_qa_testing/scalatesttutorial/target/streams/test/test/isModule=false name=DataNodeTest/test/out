@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mDataNodeTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataNode.insert[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataNode.insertMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataNode.updateOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataNode.updateMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataNode.MaxSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataNode.MinSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataNode.DeleteOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataNode.DeleteMany[0m[0m

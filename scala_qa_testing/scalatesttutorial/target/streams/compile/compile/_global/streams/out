@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala:2:12: object github is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.github.t3hnar.bcrypt._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala:3:8: not found: object scalikejdbc[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalikejdbc._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\UsableBcrypt.scala:2:12: object github is not a member of package com[0m
+[0m[[0m[31merror[0m] [0m[0mimport com.github.t3hnar.bcrypt._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\UsableBcrypt.scala:6:48: value bcrypt is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m    def hashAndSalt(str: String): String = str.bcrypt(saltSize)[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\UsableBcrypt.scala:7:76: value isBcryptedSafe is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m    private def checkHash(raw: String, hashed: String): Try[Boolean] = raw.isBcryptedSafe(hashed)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

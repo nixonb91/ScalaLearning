@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mBuildingTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Building.insert[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Building.insertMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Building.updateOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Building.updateMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Building.MaxSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Building.MinSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Building.DeleteOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Building.DeleteMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Building.toString *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "[Building(5ee7f0b1e616f26e63dd4137,30a795d4-204d-4404-ba96-38e4b7936a55,ABC Street,true,Don Knuth,0.30002047213971594,Caprio Building,The Art of Computer Programming,overfull hspace,0.9042368418173408,stackoverflow.com/latex-help)]" did not equal "[]" (BuildingTest.scala:228)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  Analysis:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  "[Building(5ee7f0b1e616f26e63dd4137,30a795d4-204d-4404-ba96-38e4b7936a55,ABC Street,true,Don Knuth,0.30002047213971594,Caprio Building,The Art of Computer Programming,overfull hspace,0.9042368418173408,stackoverflow.com/latex-help)]" -> "[]"[0m[0m

@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mMainTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RouteResult.insert[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RouteResult.insertMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RouteResult.updateOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RouteResult.updateMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RouteResult.MaxSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RouteResult.MinSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RouteResult.DeleteOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- RouteResult.DeleteMany[0m[0m

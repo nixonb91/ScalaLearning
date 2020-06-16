@@ -1,5 +1,18 @@
 [0m[[0m[0mdebug[0m] [0m[0m[watch] [root / Compile / run] Found inputs: C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\*.{java,scala},C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\java\**\*.{java,scala},C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\resources\**\*,C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\**\*.{java,scala},C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala-2.13\**\*.{java,scala}[0m
 [0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for root/run...[0m
 [0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mroot / Compile / run - Accepted event for C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala (previous stamp: Hash(a07b91ece7ea61b208f412b22a9f4b8d376e8f90), current stamp: Hash(5c0d75d24d91c5ea9e0c62a97c2a22e20c380398))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala -> Trigger. Returning: (Update(C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala, 2020-Jun-05 16:32:02.888 ET),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala, 2020-Jun-05 16:32:02.888 ET).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for root/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mDiscarding entry for recently updated path C:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\main\scala\Main.scala. This event occurred 6 ms since the last event for this path.[0m
 [0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
 [0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m

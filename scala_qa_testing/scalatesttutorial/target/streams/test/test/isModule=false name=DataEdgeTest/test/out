@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mDataEdgeTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.insert[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.insertMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.updateOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.updateMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.MaxSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.MinSort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.DeleteOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.DeleteMany[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- DataEdge.setWeight[0m[0m

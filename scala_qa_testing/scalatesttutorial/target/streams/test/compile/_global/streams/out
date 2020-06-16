@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\test\scala\BuildingTest.scala:47:31: not found: value True[0m
+[0m[[0m[31merror[0m] [0m[0m    Building("Cyprus Street", True, "Costa", 101.25, "Some Keo Beer Company", "A simple Cyprus themed Building", "Code-Alpha", 84.31, "cyprus.gov"),[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\test\scala\BuildingTest.scala:48:28: not found: value False[0m
+[0m[[0m[31merror[0m] [0m[0m    Building("Squash Ave", False, "Rakan", 20.14, "Squash Indoor Field", "A squach themed Building", "Code-Squash", 31.98, "squash.com"),[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\test\scala\BuildingTest.scala:49:29: not found: value True[0m
+[0m[[0m[31merror[0m] [0m[0m    Building("Bouquet Ave", True, "Brian", 71.25, "Sennott Square", "Computer Science Department", "SIG-SEGFAULT", 61.46, "cs.pitt.edu")[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Brian\Desktop\ScalaLearning\scala_qa_testing\scalatesttutorial\src\test\scala\BuildingTest.scala:63:39: not found: value True[0m
+[0m[[0m[31merror[0m] [0m[0m    building = Building("ABC Street", True, "Don Knuth", x, "Caprio Building", "The Art of Computer Programming", "overfull hspace", y, "stackoverflow.com/latex-help")[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
